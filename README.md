@@ -1,5 +1,5 @@
 # 👻 GhostSync
-**Instant, invisible directory synchronization over SSH.**
+**Instant, invisible directory and files synchronization over SSH.**
 
 Stop manually dragging files to FileZilla or running heavy CI/CD for tiny config changes. GhostSync watches your local folder and pushes updates via SFTP the millisecond you hit `Ctrl+S`.
 

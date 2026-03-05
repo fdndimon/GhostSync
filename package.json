@@ -1,0 +1,15 @@
+{
+  "name": "ghostsync",
+  "version": "1.0.0",
+  "description": "Instant SSH directory sync",
+  "main": "index.js",
+  "bin": {
+    "ghost": "./index.js"
+  },
+  "dependencies": {
+    "chokidar": "^3.5.3",
+    "ssh2": "^1.11.0",
+    "commander": "^9.4.1",
+    "chalk": "^4.1.2"
+  }
+}
